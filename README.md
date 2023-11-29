@@ -2,7 +2,7 @@
 <h3 align="center">A student currently learning software development</h3>
 <br>
 
-- 🌱 I’m currently learning **ASP.NET Core and MSSQL**
+- 🌱 I’m currently learning **ASP.NET Core and TypeScript**
 
 - 📫 You can reach me at: **mcgerasz@gmail.com**
 - Or on Discord<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />: mcgerasz
